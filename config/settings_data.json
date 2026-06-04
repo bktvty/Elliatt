@@ -47,7 +47,7 @@
     "cart_enable_notes": true,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
-    "social_facebook": "https://www.facebook.com/elliattcollective/",
+    "social_facebook": "",
     "social_instagram": "https://www.instagram.com/elliatt/",
     "social_tiktok": "https://www.tiktok.com/@elliatt_collective",
     "checkout_logo_position": "center",
@@ -62,7 +62,7 @@
         "type": "sidebar-menu",
         "settings": {
           "primary_menu": "main-menu",
-          "secondary_menu": "",
+          "secondary_menu": "footer",
           "show_social_media": true
         }
       },
@@ -71,7 +71,7 @@
         "settings": {
           "enable_bar": true,
           "home_page_only": false,
-          "background": "#f1cbcb",
+          "background": "#29384a",
           "text_color": "#ffffff",
           "content": "WE NOW SHIP INTERNATIONALLY!",
           "link": ""
