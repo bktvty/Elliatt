@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#1c1b1b",
@@ -21,10 +30,10 @@
     "newsletter_popup_text_color": "#ffffff",
     "secondary_elements_background": "#1c1b1b",
     "secondary_elements_text_color": "#ffffff",
-    "heading_font": "montserrat_n7",
+    "heading_font": "jost_n4",
     "heading_size": "small",
     "uppercase_heading": true,
-    "text_font": "montserrat_n5",
+    "text_font": "dm_sans_n4",
     "base_text_font_size": 14,
     "show_page_transition": false,
     "search_mode": "product,article",
@@ -38,9 +47,9 @@
     "cart_enable_notes": true,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
-    "social_facebook": "https:\/\/www.facebook.com\/elliattcollective\/",
-    "social_instagram": "https:\/\/www.instagram.com\/elliatt\/",
-    "social_tiktok": "https:\/\/www.tiktok.com\/@elliatt_collective",
+    "social_facebook": "https://www.facebook.com/elliattcollective/",
+    "social_instagram": "https://www.instagram.com/elliatt/",
+    "social_tiktok": "https://www.tiktok.com/@elliatt_collective",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
@@ -72,7 +81,6 @@
         "type": "header",
         "settings": {
           "use_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/new-elliatt-logo-june-2015.png",
           "logo_max_width": 160,
           "mobile_logo_max_width": 90,
           "show_country_selector": true,
@@ -98,14 +106,14 @@
           "15f0fa35-9b26-483f-b295-3a310a1a566a": {
             "type": "links",
             "settings": {
-              "menu": "follow-us"
+              "menu": ""
             }
           },
           "footer-0": {
             "type": "text",
             "settings": {
               "title": "CONTACT US",
-              "content": "<p>info@elliatt.com<\/p><p>+61 2 80651666<\/p><p><\/p><p>Customer Care Hours:<\/p><p>Mon - Fri 9am - 5pm AEST<\/p>",
+              "content": "<p>info@elliatt.com</p><p>+61 2 80651666</p><p></p><p>Customer Care Hours:</p><p>Mon - Fri 9am - 5pm AEST</p>",
               "show_social_media": true
             }
           },
@@ -113,7 +121,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
-              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+              "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
             }
           }
         },
@@ -137,20 +145,13 @@
           "show_only_for_visitors": true,
           "show_only_once": true,
           "title": "Popup",
-          "content": "<p>You can use this popup to display some useful information to your customers.<\/p>",
+          "content": "<p>You can use this popup to display some useful information to your customers.</p>",
           "show_newsletter": true,
           "apparition_delay": 5
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "13129208525377196889": {
-        "type": "shopify:\/\/apps\/multi-country-pricing\/blocks\/mlveda-mcp\/a55f20a0-67fc-44fb-8f37-8dfe18bd61a2",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Allure": {
@@ -233,7 +234,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -247,7 +248,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -342,7 +343,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -356,7 +357,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -452,7 +453,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -466,7 +467,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
