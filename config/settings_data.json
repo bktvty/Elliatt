@@ -87,7 +87,7 @@
           "show_country_selector": true,
           "show_locale_selector": true,
           "navigation_menu": "main-menu",
-          "navigation_style": "sidebar",
+          "navigation_style": "inline",
           "show_icons": false,
           "enable_transparent_header": false,
           "enable_transparent_header_collection": true,
