@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,7 +23,9 @@
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "fit_detail": ""
+          }
         },
         "share_buttons": {
           "type": "share_buttons",
@@ -40,13 +51,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        },
-        "dc37efb7-98c9-49e1-9bb7-d036024390ed": {
-          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
-          "settings": {
-            "product": "{{product}}"
+            "show_payment_button": false
           }
         }
       },
@@ -56,8 +61,7 @@
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "buy_buttons",
-        "dc37efb7-98c9-49e1-9bb7-d036024390ed"
+        "buy_buttons"
       ],
       "settings": {
         "image_size": "large",

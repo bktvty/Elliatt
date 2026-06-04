@@ -15,7 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-05-26_024619.png",
+            "image": "shopify://shop_images/Screenshot_2026-05-26_024528.png",
+            "mobile_image": "shopify://shop_images/Screenshot_2026-05-26_024528.png",
             "apply_overlay": true,
             "content_position": "middleCenter",
             "subheading": "",
