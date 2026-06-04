@@ -89,10 +89,11 @@
           "navigation_menu": "main-menu",
           "navigation_style": "inline",
           "show_icons": false,
-          "enable_transparent_header": false,
+          "enable_transparent_header": true,
           "enable_transparent_header_collection": true,
           "show_transparent_header_border": false,
-          "transparent_text_color": "#ffffff"
+          "transparent_text_color": "#ffffff",
+          "transparent_logo": "shopify://shop_images/logo_white.svg"
         }
       },
       "footer": {
